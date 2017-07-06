@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Slalom Visualization</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+      <style>
+      body {
+        font-weight: 300;
+        color: #808080
+      }
+      .d3-tip {
+        line-height: 1;
+        border: 1
+        font-weight: normal;
+        padding: 12px;
+        background: rgba(250, 250, 250, 250);
+        border-radius: 2px;
+      }
+      /* Creates a small triangle extender for the tooltip */
+      .d3-tip:after {
+        box-sizing: border-box;
+        display: inline;
+        font-size: 10px;
+        width: 100%;
+        line-height: 1;
+        color: rgba(0, 0, 0, 0.9);
+        content: "\25BC";
+        position: absolute;
+        text-align: center;
+      }
+      /* Style northward tooltips differently */
+      .d3-tip.n:after {
+        margin: -1px 0 0 0;
+        top: 100%;
+        left: 0;
+      }
+      svg { background: white; }
+      .x-axis path{
+        stroke: none;
+      }
+      .x-axis line{
+        stroke: none;
+      }
+      .x-axis text{
+        font-size: 15px;
+        fill: #808080
+      }
+      .y-axis path{
+        stroke: none;
+      }
+      .y-axis line{
+        stroke: none;
+      }
+      .y-axis text{
+        font-size: 9px;
+        fill: #808080
+      }
+      input[id=All] {
+      background-color: #bdbdbd;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Mortgage] {
+      background-color: #1ABC9C;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Debt-collection] {
+      background-color: #16A085;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Credit-reporting] {
+      background-color: #F1C40F;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Credit-card] {
+      background-color: #F39C12;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Bank-account-or-service] {
+      background-color: #E67E22;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Consumer-loan] {
+      background-color: #D35400;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Student-loan] {
+      background-color: #3498DB;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Prepaid-card] {
+      background-color: #2980B9;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Money-transfers] {
+      background-color: #E74C3C;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Payday-loan] {
+      background-color: #C0392B;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Other-financial-service] {
+      background-color: #95A5A6;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Virtual-currency] {
+      background-color: #7F8C8D;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Credit-reporting-credit-repair-services-or-other-personal-consumer-reports] {
+      background-color: #2ECC71;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Credit-card-or-prepaid-card] {
+      background-color: #27AE60;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Checking-or-savings-account] {
+      background-color: #34495E;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Money-transfer-virtual-currency-or-money-service] {
+      background-color: #2C3E50;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Vehicle-loan-or-lease] {
+      background-color: #9B59B6;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      input[id=Payday-loan-title-loan-or-personal-loan] {
+      background-color: #8E44AD;
+      opacity: 0.7;
+      border: 1px;
+      border-radius: 4px;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 12px
+      }
+      select[id="named-select"] {
+        padding: 5px 10px;
+        color: black;
+        border: 1px;
+        font-size: 12px
+      }
+      </style>
+  </head>
+      <body>
+
+        <nav class="navbar navbar-fixed-top navbar-inverse">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+              <ul class="nav navbar-nav">
+                <!--<li><a href= "..">Back to all projects</a></li>-->
+              </ul>
+            </div><!-- /.nav-collapse -->
+          </div><!-- /.container -->
+        </nav><!-- /.navbar -->
+        <div class="container">
+
+          <div class="row row-offcanvas row-offcanvas-right">
+
+            <div class="col-xs-12 col-sm-15">
+              <p class="pull-right visible-xs">
+                <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+              </p>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <div class="jumbotron">
+                <h1>Navient, the Most-Complained-About Financial Institution in 2017</h1>
+                <p>June Jeongwon Seo | @junebugseo | July 7, 2017 | Slalom Data Visualization Workbook </p>
+                <p> <a href="https://www.consumerfinance.gov/data-research/consumer-complaints/">Consumer Complaint Database </a> by Consumer Financial Protection Bureau </p>
+              </div>
+
+          <div id="chart-1"></div>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <div id="chart-2">
+
+            <div id= 'buttons'>
+            <input type="submit" value="All Products" id="All" class="All">
+            <input type="submit" value="Mortgage" id="Mortgage" class="Mortgage">
+            <input type="submit" value="Debt Collection" id="Debt-collection" class= "Debt-collection">
+            <input type="submit" value="Credit Reporting" id="Credit-reporting" class= "Credit-reporting">
+            <input type="submit" value="Credit Card" id="Credit-card" class= "Credit-card">
+            <input type="submit" value="Bank Account or Service" id="Bank-account-or-service" class="Bank-account-or-service">
+            <input type="submit" value="Consumer Loan" id="Consumer-loan" class= "Consumer-loan">
+            <input type="submit" value="Student Loan" id="Student-loan" class= "Student-loan">
+            <input type="submit" value="Prepaid Card" id="Prepaid-card" class= "Prepaid-card">
+            <input type="submit" value="Money Transfers" id="Money-transfers" class= "Money-transfers">
+            <input type="submit" value="Payday Loan" id="Payday-loan" class= "Payday-loan">
+            <!--<input type="submit" value="Other Financial Service" id="Other-financial-service" class= "Other-financial-service">
+            <input type="submit" value="Virtual Currency" id="Virtual-currency" class= "Virtual-currency">
+            <input type="submit" value="Credit Repair Services" id="Credit-reporting-credit-repair-services-or-other-personal-consumer-reports" class= "Credit-reporting-credit-repair-services-or-other-personal-consumer-reports">
+            <input type="submit" value="Credit Card or Prepaid Card" id="Credit-card-or-prepaid-card" class= "Credit-card-or-prepaid-card">
+            <input type="submit" value="Checking or Savings Account" id="Checking-or-savings-account" class= "Checking-or-savings-account">
+            <input type="submit" value="Money Service" id="Money-transfer-virtual-currency-or-money-service" class="Money-transfer-virtual-currency-or-money-service">
+            <input type="submit" value="Vehicle Loan or Lease" id="Vehicle-loan-or-lease" class="Vehicle-loan-or-lease">
+            <input type="submit" value="Title Loan or Personal Loan" id="Payday-loan-title-loan-or-personal-loan" class="Payday-loan-title-loan-or-personal-loan">-->
+
+
+          </div>
+
+          <select id="named-select">
+            <option value=".circle">All Group</option>
+            <option value=".groupone">Mortgage Group</option>
+            <option value=".grouptwo">Credit Card Group</option>
+            <option value=".groupthree">Credit Reporting Group</option>
+            <option value=".groupfour">Student Loan Group</option>
+            <option value=".groupfive">Other Group</option>
+          </select>
+<br>
+<br>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+          <!--
+            This is d3-tip, which will give us d3 tooltips
+            https://github.com/Caged/d3-tip
+            <link rel="stylesheet" href="//rawgithub.com/Caged/d3-tip/master/examples/example-styles.css">
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+            <script src="https://github.com/Caged/d3-tip"></script>
+          -->
+        <!-- Now we include our actual visualization -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+        <script src="https://github.com/Caged/d3-tip"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+  <!-- <link rel="stylesheet" href="//rawgithub.com/Caged/d3-tip/master/examples/example-styles.css"> -->
+
+          <script src="chart-1.js"></script>
+          <script src="chart-2.js"></script>
+        </body>
+
+
+        </html>

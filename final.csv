@@ -1,0 +1,1681 @@
+Company,Year,Product,Count,Name,Rank12,Rank17,Group
+Navient Solutions LLC,2012,Bank account or service,1,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Bank account or service,2,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Bank account or service,7,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Bank account or service,1,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Bank account or service,3,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Bank account or service,1,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Checking or savings account,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Checking or savings account,0,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Checking or savings account,0,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Checking or savings account,0,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Checking or savings account,0,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Checking or savings account,0,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Consumer loan,4,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Consumer loan,0,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Consumer loan,7,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Consumer loan,8,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Consumer loan,13,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Consumer loan,4,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Credit card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Credit card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Credit card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Credit card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Credit card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Credit card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Credit reporting,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Credit reporting,5,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Credit reporting,2,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Credit reporting,1,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Credit reporting,4,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Credit reporting,59,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Debt collection,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Debt collection,208,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Debt collection,523,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Debt collection,427,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Debt collection,501,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Debt collection,220,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Money transfers,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Money transfers,0,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Money transfers,0,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Money transfers,0,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Money transfers,0,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Money transfers,0,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Mortgage,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Mortgage,1,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Mortgage,3,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Mortgage,1,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Mortgage,1,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Mortgage,1,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Other financial service,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Other financial service,0,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Other financial service,0,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Other financial service,0,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Other financial service,3,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Other financial service,4,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Payday loan,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Payday loan,0,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Payday loan,0,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Payday loan,0,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Payday loan,1,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Payday loan,1,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Prepaid card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Prepaid card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Prepaid card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Prepaid card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Prepaid card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Prepaid card,0,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Student loan,1204,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Student loan,1370,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Student loan,1892,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Student loan,1664,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Student loan,2782,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Student loan,7604,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Vehicle loan or lease,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Vehicle loan or lease,0,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Vehicle loan or lease,0,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Vehicle loan or lease,0,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Vehicle loan or lease,0,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Vehicle loan or lease,0,Navient,11,1,groupfour
+Navient Solutions LLC,2012,Virtual currency,0,Navient,11,1,groupfour
+Navient Solutions LLC,2013,Virtual currency,0,Navient,11,1,groupfour
+Navient Solutions LLC,2014,Virtual currency,0,Navient,11,1,groupfour
+Navient Solutions LLC,2015,Virtual currency,0,Navient,11,1,groupfour
+Navient Solutions LLC,2016,Virtual currency,0,Navient,11,1,groupfour
+Navient Solutions LLC,2017,Virtual currency,0,Navient,11,1,groupfour
+EQUIFAX INC,2012,Bank account or service,1,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Bank account or service,3,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Bank account or service,5,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Bank account or service,1,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Bank account or service,3,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Bank account or service,1,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Checking or savings account,0,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Checking or savings account,0,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Checking or savings account,0,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Checking or savings account,0,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Checking or savings account,0,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Checking or savings account,0,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Consumer loan,1,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Consumer loan,5,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Consumer loan,9,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Consumer loan,8,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Consumer loan,22,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Consumer loan,10,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Credit card,4,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Credit card,11,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Credit card,4,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Credit card,8,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Credit card,18,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Credit card,3,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Credit reporting,610,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Credit reporting,4752,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Credit reporting,9934,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Credit reporting,11962,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Credit reporting,15850,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Credit reporting,6200,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Debt collection,0,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Debt collection,1,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Debt collection,6,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Debt collection,12,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Debt collection,43,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Debt collection,28,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Money transfers,0,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Money transfers,0,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Money transfers,0,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Money transfers,0,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Money transfers,0,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Money transfers,0,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Mortgage,5,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Mortgage,3,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Mortgage,4,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Mortgage,10,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Mortgage,16,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Mortgage,7,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Other financial service,0,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Other financial service,0,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Other financial service,0,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Other financial service,0,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Other financial service,3,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Other financial service,0,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Payday loan,0,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Payday loan,0,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Payday loan,0,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Payday loan,0,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Payday loan,0,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Payday loan,2,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Prepaid card,0,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Prepaid card,0,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Prepaid card,0,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Prepaid card,0,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Prepaid card,1,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Prepaid card,0,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Student loan,0,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Student loan,0,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Student loan,1,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Student loan,2,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Student loan,17,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Student loan,3,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Vehicle loan or lease,0,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Vehicle loan or lease,0,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Vehicle loan or lease,0,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Vehicle loan or lease,0,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Vehicle loan or lease,0,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Vehicle loan or lease,1,Equifax,18,2,groupthree
+EQUIFAX INC,2012,Virtual currency,0,Equifax,18,2,groupthree
+EQUIFAX INC,2013,Virtual currency,0,Equifax,18,2,groupthree
+EQUIFAX INC,2014,Virtual currency,0,Equifax,18,2,groupthree
+EQUIFAX INC,2015,Virtual currency,0,Equifax,18,2,groupthree
+EQUIFAX INC,2016,Virtual currency,0,Equifax,18,2,groupthree
+EQUIFAX INC,2017,Virtual currency,0,Equifax,18,2,groupthree
+EXPERIAN DELAWARE GP,2012,Bank account or service,2,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Bank account or service,5,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Bank account or service,3,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Bank account or service,3,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Bank account or service,6,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Bank account or service,3,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Checking or savings account,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Checking or savings account,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Checking or savings account,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Checking or savings account,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Checking or savings account,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Checking or savings account,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Consumer loan,1,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Consumer loan,3,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Consumer loan,6,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Consumer loan,2,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Consumer loan,16,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Consumer loan,12,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Credit card,4,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Credit card,14,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Credit card,11,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Credit card,6,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Credit card,12,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Credit card,6,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Credit reporting,715,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Credit reporting,5238,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Credit reporting,10200,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Credit reporting,10798,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Credit reporting,13863,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Credit reporting,6179,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Debt collection,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Debt collection,7,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Debt collection,15,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Debt collection,11,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Debt collection,22,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Debt collection,29,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Money transfers,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Money transfers,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Money transfers,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Money transfers,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Money transfers,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Money transfers,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Mortgage,3,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Mortgage,5,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Mortgage,9,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Mortgage,4,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Mortgage,14,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Mortgage,4,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Other financial service,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Other financial service,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Other financial service,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Other financial service,2,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Other financial service,4,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Other financial service,1,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Payday loan,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Payday loan,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Payday loan,1,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Payday loan,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Payday loan,1,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Payday loan,2,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Prepaid card,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Prepaid card,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Prepaid card,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Prepaid card,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Prepaid card,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Prepaid card,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Student loan,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Student loan,1,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Student loan,1,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Student loan,2,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Student loan,11,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Student loan,5,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Vehicle loan or lease,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Vehicle loan or lease,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Vehicle loan or lease,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Vehicle loan or lease,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Vehicle loan or lease,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Vehicle loan or lease,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2012,Virtual currency,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2013,Virtual currency,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2014,Virtual currency,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2015,Virtual currency,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2016,Virtual currency,0,Experian,17,3,groupthree
+EXPERIAN DELAWARE GP,2017,Virtual currency,0,Experian,17,3,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Bank account or service,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Bank account or service,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Bank account or service,4,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Bank account or service,2,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Bank account or service,4,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Bank account or service,3,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Checking or savings account,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Checking or savings account,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Checking or savings account,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Checking or savings account,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Checking or savings account,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Checking or savings account,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Consumer loan,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Consumer loan,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Consumer loan,4,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Consumer loan,2,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Consumer loan,15,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Consumer loan,7,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Credit card,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Credit card,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Credit card,5,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Credit card,4,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Credit card,8,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Credit card,6,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Credit reporting,464,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Credit reporting,3559,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Credit reporting,8011,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Credit reporting,10134,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Credit reporting,12908,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Credit reporting,5949,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Debt collection,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Debt collection,2,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Debt collection,9,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Debt collection,16,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Debt collection,32,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Debt collection,37,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Money transfers,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Money transfers,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Money transfers,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Money transfers,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Money transfers,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Money transfers,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Mortgage,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Mortgage,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Mortgage,6,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Mortgage,6,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Mortgage,7,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Mortgage,7,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Other financial service,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Other financial service,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Other financial service,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Other financial service,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Other financial service,1,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Other financial service,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Payday loan,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Payday loan,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Payday loan,1,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Payday loan,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Payday loan,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Payday loan,1,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Prepaid card,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Prepaid card,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Prepaid card,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Prepaid card,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Prepaid card,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Prepaid card,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Student loan,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Student loan,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Student loan,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Student loan,3,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Student loan,10,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Student loan,6,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Vehicle loan or lease,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Vehicle loan or lease,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Vehicle loan or lease,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Vehicle loan or lease,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Vehicle loan or lease,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Vehicle loan or lease,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2012,Virtual currency,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2013,Virtual currency,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2014,Virtual currency,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2015,Virtual currency,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2016,Virtual currency,0,TransUnion,19,4,groupthree
+TRANSUNION INTERMEDIATE HOLDINGS INC,2017,Virtual currency,0,TransUnion,19,4,groupthree
+WELLS FARGO BANK NA,2012,Bank account or service,2271,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Bank account or service,2392,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Bank account or service,2363,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Bank account or service,2329,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Bank account or service,3065,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Bank account or service,915,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Checking or savings account,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Checking or savings account,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Checking or savings account,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Checking or savings account,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Checking or savings account,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Checking or savings account,136,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Consumer loan,376,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Consumer loan,366,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Consumer loan,403,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Consumer loan,496,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Consumer loan,648,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Consumer loan,239,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Credit card,663,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Credit card,632,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Credit card,672,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Credit card,709,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Credit card,1020,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Credit card,374,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Credit reporting,5,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Credit reporting,38,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Credit reporting,22,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Credit reporting,22,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Credit reporting,20,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Credit reporting,93,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Debt collection,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Debt collection,138,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Debt collection,414,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Debt collection,277,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Debt collection,378,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Debt collection,133,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Money transfers,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Money transfers,41,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Money transfers,68,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Money transfers,47,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Money transfers,68,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Money transfers,44,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Mortgage,5926,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Mortgage,7312,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Mortgage,4970,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Mortgage,5101,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Mortgage,5651,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Mortgage,1678,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Other financial service,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Other financial service,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Other financial service,10,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Other financial service,17,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Other financial service,23,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Other financial service,7,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Payday loan,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Payday loan,1,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Payday loan,5,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Payday loan,8,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Payday loan,8,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Payday loan,17,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Prepaid card,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Prepaid card,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Prepaid card,8,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Prepaid card,7,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Prepaid card,17,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Prepaid card,4,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Student loan,211,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Student loan,206,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Student loan,233,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Student loan,269,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Student loan,304,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Student loan,119,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Vehicle loan or lease,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Vehicle loan or lease,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Vehicle loan or lease,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Vehicle loan or lease,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Vehicle loan or lease,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Vehicle loan or lease,26,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2012,Virtual currency,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2013,Virtual currency,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2014,Virtual currency,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2015,Virtual currency,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2016,Virtual currency,0,Wells Fargo,2,5,groupone
+WELLS FARGO BANK NA,2017,Virtual currency,0,Wells Fargo,2,5,groupone
+BANK OF AMERICA NA,2012,Bank account or service,2037,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Bank account or service,2195,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Bank account or service,2427,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Bank account or service,2925,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Bank account or service,3244,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Bank account or service,1088,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Checking or savings account,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Checking or savings account,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Checking or savings account,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Checking or savings account,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Checking or savings account,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Checking or savings account,162,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Consumer loan,127,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Consumer loan,124,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Consumer loan,103,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Consumer loan,144,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Consumer loan,134,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Consumer loan,49,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Credit card,2085,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Credit card,1498,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Credit card,1333,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Credit card,1645,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Credit card,1792,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Credit card,709,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Credit reporting,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Credit reporting,12,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Credit reporting,9,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Credit reporting,7,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Credit reporting,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Credit reporting,133,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Debt collection,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Debt collection,171,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Debt collection,489,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Debt collection,382,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Debt collection,492,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Debt collection,140,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Money transfers,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Money transfers,37,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Money transfers,74,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Money transfers,76,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Money transfers,60,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Money transfers,33,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Mortgage,11762,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Mortgage,12408,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Mortgage,5820,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Mortgage,4585,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Mortgage,3989,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Mortgage,1152,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Other financial service,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Other financial service,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Other financial service,6,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Other financial service,32,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Other financial service,25,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Other financial service,10,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Payday loan,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Payday loan,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Payday loan,1,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Payday loan,7,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Payday loan,6,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Payday loan,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Prepaid card,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Prepaid card,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Prepaid card,12,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Prepaid card,17,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Prepaid card,17,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Prepaid card,9,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Student loan,28,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Student loan,14,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Student loan,13,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Student loan,13,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Student loan,25,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Student loan,9,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Vehicle loan or lease,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Vehicle loan or lease,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Vehicle loan or lease,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Vehicle loan or lease,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Vehicle loan or lease,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Vehicle loan or lease,5,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2012,Virtual currency,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2013,Virtual currency,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2014,Virtual currency,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2015,Virtual currency,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2016,Virtual currency,0,Bank of America,1,6,groupone
+BANK OF AMERICA NA,2017,Virtual currency,0,Bank of America,1,6,groupone
+JPMORGAN CHASE CO,2012,Bank account or service,1320,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Bank account or service,1420,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Bank account or service,1666,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Bank account or service,2006,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Bank account or service,2581,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Bank account or service,823,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Checking or savings account,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Checking or savings account,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Checking or savings account,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Checking or savings account,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Checking or savings account,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Checking or savings account,159,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Consumer loan,134,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Consumer loan,167,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Consumer loan,136,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Consumer loan,213,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Consumer loan,277,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Consumer loan,102,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Credit card,1954,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Credit card,1498,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Credit card,1590,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Credit card,1902,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Credit card,2476,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Credit card,938,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Credit reporting,4,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Credit reporting,5,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Credit reporting,29,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Credit reporting,25,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Credit reporting,26,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Credit reporting,147,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Debt collection,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Debt collection,153,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Debt collection,525,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Debt collection,457,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Debt collection,512,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Debt collection,138,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Money transfers,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Money transfers,30,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Money transfers,62,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Money transfers,56,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Money transfers,56,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Money transfers,40,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Mortgage,3715,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Mortgage,4561,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Mortgage,3472,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Mortgage,3144,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Mortgage,2707,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Mortgage,682,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Other financial service,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Other financial service,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Other financial service,14,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Other financial service,19,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Other financial service,22,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Other financial service,5,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Payday loan,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Payday loan,1,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Payday loan,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Payday loan,1,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Payday loan,4,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Payday loan,4,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Prepaid card,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Prepaid card,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Prepaid card,6,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Prepaid card,15,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Prepaid card,8,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Prepaid card,3,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Student loan,162,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Student loan,154,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Student loan,235,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Student loan,130,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Student loan,93,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Student loan,26,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Vehicle loan or lease,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Vehicle loan or lease,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Vehicle loan or lease,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Vehicle loan or lease,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Vehicle loan or lease,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Vehicle loan or lease,13,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2012,Virtual currency,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2013,Virtual currency,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2014,Virtual currency,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2015,Virtual currency,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2016,Virtual currency,0,JPMorgan Chase,3,7,groupone
+JPMORGAN CHASE CO,2017,Virtual currency,0,JPMorgan Chase,3,7,groupone
+CITIBANK NA,2012,Bank account or service,357,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Bank account or service,408,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Bank account or service,494,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Bank account or service,598,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Bank account or service,2091,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Bank account or service,502,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Checking or savings account,0,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Checking or savings account,0,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Checking or savings account,0,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Checking or savings account,0,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Checking or savings account,0,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Checking or savings account,47,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Consumer loan,87,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Consumer loan,107,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Consumer loan,197,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Consumer loan,252,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Consumer loan,95,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Consumer loan,27,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Credit card,2984,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Credit card,2527,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Credit card,2393,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Credit card,2986,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Credit card,4420,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Credit card,1487,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Credit reporting,6,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Credit reporting,54,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Credit reporting,39,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Credit reporting,33,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Credit reporting,21,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Credit reporting,170,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Debt collection,0,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Debt collection,280,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Debt collection,835,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Debt collection,748,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Debt collection,713,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Debt collection,218,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Money transfers,0,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Money transfers,17,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Money transfers,25,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Money transfers,22,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Money transfers,31,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Money transfers,13,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Mortgage,1775,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Mortgage,2391,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Mortgage,1647,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Mortgage,1387,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Mortgage,1154,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Mortgage,370,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Other financial service,0,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Other financial service,0,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Other financial service,6,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Other financial service,10,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Other financial service,16,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Other financial service,2,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Payday loan,0,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Payday loan,1,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Payday loan,10,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Payday loan,4,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Payday loan,6,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Payday loan,3,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Prepaid card,0,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Prepaid card,0,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Prepaid card,32,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Prepaid card,78,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Prepaid card,76,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Prepaid card,20,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Student loan,224,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Student loan,93,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Student loan,89,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Student loan,84,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Student loan,80,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Student loan,37,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Vehicle loan or lease,0,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Vehicle loan or lease,0,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Vehicle loan or lease,0,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Vehicle loan or lease,0,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Vehicle loan or lease,0,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Vehicle loan or lease,1,Citibank,4,8,grouptwo
+CITIBANK NA,2012,Virtual currency,0,Citibank,4,8,grouptwo
+CITIBANK NA,2013,Virtual currency,0,Citibank,4,8,grouptwo
+CITIBANK NA,2014,Virtual currency,0,Citibank,4,8,grouptwo
+CITIBANK NA,2015,Virtual currency,0,Citibank,4,8,grouptwo
+CITIBANK NA,2016,Virtual currency,0,Citibank,4,8,grouptwo
+CITIBANK NA,2017,Virtual currency,0,Citibank,4,8,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Bank account or service,442,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Bank account or service,429,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Bank account or service,370,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Bank account or service,448,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Bank account or service,570,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Bank account or service,186,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Checking or savings account,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Checking or savings account,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Checking or savings account,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Checking or savings account,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Checking or savings account,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Checking or savings account,22,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Consumer loan,157,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Consumer loan,184,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Consumer loan,234,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Consumer loan,259,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Consumer loan,286,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Consumer loan,92,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Credit card,3063,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Credit card,2222,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Credit card,1918,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Credit card,2168,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Credit card,2463,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Credit card,1002,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Credit reporting,9,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Credit reporting,75,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Credit reporting,55,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Credit reporting,32,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Credit reporting,29,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Credit reporting,220,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Debt collection,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Debt collection,212,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Debt collection,584,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Debt collection,586,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Debt collection,686,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Debt collection,272,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Money transfers,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Money transfers,2,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Money transfers,4,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Money transfers,8,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Money transfers,12,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Money transfers,10,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Mortgage,205,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Mortgage,204,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Mortgage,171,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Mortgage,180,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Mortgage,187,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Mortgage,51,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Other financial service,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Other financial service,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Other financial service,1,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Other financial service,2,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Other financial service,14,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Other financial service,1,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Payday loan,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Payday loan,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Payday loan,1,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Payday loan,1,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Payday loan,2,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Payday loan,1,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Prepaid card,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Prepaid card,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Prepaid card,5,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Prepaid card,5,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Prepaid card,11,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Prepaid card,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Student loan,1,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Student loan,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Student loan,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Student loan,1,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Student loan,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Student loan,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Vehicle loan or lease,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Vehicle loan or lease,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Vehicle loan or lease,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Vehicle loan or lease,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Vehicle loan or lease,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Vehicle loan or lease,11,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2012,Virtual currency,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2013,Virtual currency,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2014,Virtual currency,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2015,Virtual currency,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2016,Virtual currency,0,Capital One,5,9,grouptwo
+CAPITAL ONE FINANCIAL CORPORATION,2017,Virtual currency,0,Capital One,5,9,grouptwo
+SYNCHRONY BANK,2012,Bank account or service,71,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Bank account or service,82,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Bank account or service,129,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Bank account or service,183,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Bank account or service,221,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Bank account or service,60,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Checking or savings account,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Checking or savings account,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Checking or savings account,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Checking or savings account,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Checking or savings account,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Checking or savings account,3,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Consumer loan,50,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Consumer loan,51,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Consumer loan,158,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Consumer loan,203,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Consumer loan,165,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Consumer loan,55,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Credit card,1216,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Credit card,1172,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Credit card,1786,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Credit card,1861,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Credit card,1924,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Credit card,856,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Credit reporting,2,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Credit reporting,22,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Credit reporting,20,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Credit reporting,22,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Credit reporting,10,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Credit reporting,147,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Debt collection,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Debt collection,203,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Debt collection,612,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Debt collection,591,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Debt collection,715,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Debt collection,288,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Money transfers,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Money transfers,3,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Money transfers,3,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Money transfers,1,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Money transfers,2,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Money transfers,1,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Mortgage,131,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Mortgage,50,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Mortgage,10,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Mortgage,6,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Mortgage,3,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Mortgage,2,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Other financial service,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Other financial service,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Other financial service,1,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Other financial service,1,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Other financial service,2,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Other financial service,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Payday loan,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Payday loan,9,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Payday loan,20,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Payday loan,10,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Payday loan,3,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Payday loan,4,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Prepaid card,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Prepaid card,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Prepaid card,4,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Prepaid card,6,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Prepaid card,7,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Prepaid card,3,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Student loan,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Student loan,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Student loan,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Student loan,1,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Student loan,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Student loan,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Vehicle loan or lease,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Vehicle loan or lease,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Vehicle loan or lease,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Vehicle loan or lease,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Vehicle loan or lease,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Vehicle loan or lease,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2012,Virtual currency,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2013,Virtual currency,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2014,Virtual currency,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2015,Virtual currency,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2016,Virtual currency,0,Synchrony Bank,8,10,grouptwo
+SYNCHRONY BANK,2017,Virtual currency,0,Synchrony Bank,8,10,grouptwo
+OCWEN LOAN SERVICING LLC,2012,Bank account or service,5,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Bank account or service,19,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Bank account or service,18,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Bank account or service,13,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Bank account or service,6,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Bank account or service,1,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Checking or savings account,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Checking or savings account,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Checking or savings account,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Checking or savings account,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Checking or savings account,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Checking or savings account,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Consumer loan,3,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Consumer loan,3,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Consumer loan,7,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Consumer loan,15,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Consumer loan,4,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Consumer loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Credit card,1,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Credit card,2,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Credit card,2,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Credit card,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Credit card,1,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Credit card,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Credit reporting,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Credit reporting,13,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Credit reporting,9,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Credit reporting,10,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Credit reporting,2,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Credit reporting,18,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Debt collection,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Debt collection,56,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Debt collection,216,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Debt collection,127,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Debt collection,180,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Debt collection,27,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Money transfers,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Money transfers,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Money transfers,1,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Money transfers,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Money transfers,1,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Money transfers,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Mortgage,3753,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Mortgage,4720,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Mortgage,6017,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Mortgage,4740,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Mortgage,3292,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Mortgage,994,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Other financial service,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Other financial service,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Other financial service,2,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Other financial service,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Other financial service,1,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Other financial service,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Payday loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Payday loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Payday loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Payday loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Payday loan,1,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Payday loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Prepaid card,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Prepaid card,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Prepaid card,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Prepaid card,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Prepaid card,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Prepaid card,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Student loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Student loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Student loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Student loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Student loan,1,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Student loan,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Vehicle loan or lease,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Vehicle loan or lease,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Vehicle loan or lease,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Vehicle loan or lease,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Vehicle loan or lease,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Vehicle loan or lease,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2012,Virtual currency,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2013,Virtual currency,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2014,Virtual currency,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2015,Virtual currency,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2016,Virtual currency,0,Ocwen Loan Servicing,6,11,groupfive
+OCWEN LOAN SERVICING LLC,2017,Virtual currency,0,Ocwen Loan Servicing,6,11,groupfive
+US BANCORP,2012,Bank account or service,479,US Bancorp,7,12,groupone
+US BANCORP,2013,Bank account or service,619,US Bancorp,7,12,groupone
+US BANCORP,2014,Bank account or service,716,US Bancorp,7,12,groupone
+US BANCORP,2015,Bank account or service,750,US Bancorp,7,12,groupone
+US BANCORP,2016,Bank account or service,891,US Bancorp,7,12,groupone
+US BANCORP,2017,Bank account or service,271,US Bancorp,7,12,groupone
+US BANCORP,2012,Checking or savings account,0,US Bancorp,7,12,groupone
+US BANCORP,2013,Checking or savings account,0,US Bancorp,7,12,groupone
+US BANCORP,2014,Checking or savings account,0,US Bancorp,7,12,groupone
+US BANCORP,2015,Checking or savings account,0,US Bancorp,7,12,groupone
+US BANCORP,2016,Checking or savings account,0,US Bancorp,7,12,groupone
+US BANCORP,2017,Checking or savings account,43,US Bancorp,7,12,groupone
+US BANCORP,2012,Consumer loan,69,US Bancorp,7,12,groupone
+US BANCORP,2013,Consumer loan,85,US Bancorp,7,12,groupone
+US BANCORP,2014,Consumer loan,116,US Bancorp,7,12,groupone
+US BANCORP,2015,Consumer loan,124,US Bancorp,7,12,groupone
+US BANCORP,2016,Consumer loan,136,US Bancorp,7,12,groupone
+US BANCORP,2017,Consumer loan,44,US Bancorp,7,12,groupone
+US BANCORP,2012,Credit card,309,US Bancorp,7,12,groupone
+US BANCORP,2013,Credit card,332,US Bancorp,7,12,groupone
+US BANCORP,2014,Credit card,353,US Bancorp,7,12,groupone
+US BANCORP,2015,Credit card,649,US Bancorp,7,12,groupone
+US BANCORP,2016,Credit card,561,US Bancorp,7,12,groupone
+US BANCORP,2017,Credit card,255,US Bancorp,7,12,groupone
+US BANCORP,2012,Credit reporting,3,US Bancorp,7,12,groupone
+US BANCORP,2013,Credit reporting,11,US Bancorp,7,12,groupone
+US BANCORP,2014,Credit reporting,10,US Bancorp,7,12,groupone
+US BANCORP,2015,Credit reporting,5,US Bancorp,7,12,groupone
+US BANCORP,2016,Credit reporting,5,US Bancorp,7,12,groupone
+US BANCORP,2017,Credit reporting,31,US Bancorp,7,12,groupone
+US BANCORP,2012,Debt collection,0,US Bancorp,7,12,groupone
+US BANCORP,2013,Debt collection,53,US Bancorp,7,12,groupone
+US BANCORP,2014,Debt collection,145,US Bancorp,7,12,groupone
+US BANCORP,2015,Debt collection,135,US Bancorp,7,12,groupone
+US BANCORP,2016,Debt collection,116,US Bancorp,7,12,groupone
+US BANCORP,2017,Debt collection,43,US Bancorp,7,12,groupone
+US BANCORP,2012,Money transfers,0,US Bancorp,7,12,groupone
+US BANCORP,2013,Money transfers,10,US Bancorp,7,12,groupone
+US BANCORP,2014,Money transfers,6,US Bancorp,7,12,groupone
+US BANCORP,2015,Money transfers,4,US Bancorp,7,12,groupone
+US BANCORP,2016,Money transfers,10,US Bancorp,7,12,groupone
+US BANCORP,2017,Money transfers,8,US Bancorp,7,12,groupone
+US BANCORP,2012,Mortgage,641,US Bancorp,7,12,groupone
+US BANCORP,2013,Mortgage,903,US Bancorp,7,12,groupone
+US BANCORP,2014,Mortgage,1109,US Bancorp,7,12,groupone
+US BANCORP,2015,Mortgage,897,US Bancorp,7,12,groupone
+US BANCORP,2016,Mortgage,770,US Bancorp,7,12,groupone
+US BANCORP,2017,Mortgage,266,US Bancorp,7,12,groupone
+US BANCORP,2012,Other financial service,0,US Bancorp,7,12,groupone
+US BANCORP,2013,Other financial service,0,US Bancorp,7,12,groupone
+US BANCORP,2014,Other financial service,3,US Bancorp,7,12,groupone
+US BANCORP,2015,Other financial service,7,US Bancorp,7,12,groupone
+US BANCORP,2016,Other financial service,6,US Bancorp,7,12,groupone
+US BANCORP,2017,Other financial service,0,US Bancorp,7,12,groupone
+US BANCORP,2012,Payday loan,0,US Bancorp,7,12,groupone
+US BANCORP,2013,Payday loan,0,US Bancorp,7,12,groupone
+US BANCORP,2014,Payday loan,8,US Bancorp,7,12,groupone
+US BANCORP,2015,Payday loan,3,US Bancorp,7,12,groupone
+US BANCORP,2016,Payday loan,5,US Bancorp,7,12,groupone
+US BANCORP,2017,Payday loan,5,US Bancorp,7,12,groupone
+US BANCORP,2012,Prepaid card,0,US Bancorp,7,12,groupone
+US BANCORP,2013,Prepaid card,0,US Bancorp,7,12,groupone
+US BANCORP,2014,Prepaid card,54,US Bancorp,7,12,groupone
+US BANCORP,2015,Prepaid card,122,US Bancorp,7,12,groupone
+US BANCORP,2016,Prepaid card,108,US Bancorp,7,12,groupone
+US BANCORP,2017,Prepaid card,36,US Bancorp,7,12,groupone
+US BANCORP,2012,Student loan,26,US Bancorp,7,12,groupone
+US BANCORP,2013,Student loan,16,US Bancorp,7,12,groupone
+US BANCORP,2014,Student loan,13,US Bancorp,7,12,groupone
+US BANCORP,2015,Student loan,11,US Bancorp,7,12,groupone
+US BANCORP,2016,Student loan,10,US Bancorp,7,12,groupone
+US BANCORP,2017,Student loan,2,US Bancorp,7,12,groupone
+US BANCORP,2012,Vehicle loan or lease,0,US Bancorp,7,12,groupone
+US BANCORP,2013,Vehicle loan or lease,0,US Bancorp,7,12,groupone
+US BANCORP,2014,Vehicle loan or lease,0,US Bancorp,7,12,groupone
+US BANCORP,2015,Vehicle loan or lease,0,US Bancorp,7,12,groupone
+US BANCORP,2016,Vehicle loan or lease,0,US Bancorp,7,12,groupone
+US BANCORP,2017,Vehicle loan or lease,5,US Bancorp,7,12,groupone
+US BANCORP,2012,Virtual currency,0,US Bancorp,7,12,groupone
+US BANCORP,2013,Virtual currency,0,US Bancorp,7,12,groupone
+US BANCORP,2014,Virtual currency,0,US Bancorp,7,12,groupone
+US BANCORP,2015,Virtual currency,0,US Bancorp,7,12,groupone
+US BANCORP,2016,Virtual currency,0,US Bancorp,7,12,groupone
+US BANCORP,2017,Virtual currency,0,US Bancorp,7,12,groupone
+NATIONSTAR MORTGAGE,2012,Bank account or service,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Bank account or service,7,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Bank account or service,5,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Bank account or service,7,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Bank account or service,7,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Bank account or service,3,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Checking or savings account,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Checking or savings account,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Checking or savings account,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Checking or savings account,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Checking or savings account,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Checking or savings account,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Consumer loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Consumer loan,1,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Consumer loan,4,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Consumer loan,4,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Consumer loan,4,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Consumer loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Credit card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Credit card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Credit card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Credit card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Credit card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Credit card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Credit reporting,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Credit reporting,1,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Credit reporting,3,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Credit reporting,5,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Credit reporting,4,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Credit reporting,12,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Debt collection,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Debt collection,36,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Debt collection,90,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Debt collection,95,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Debt collection,92,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Debt collection,35,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Money transfers,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Money transfers,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Money transfers,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Money transfers,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Money transfers,1,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Money transfers,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Mortgage,949,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Mortgage,3044,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Mortgage,4014,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Mortgage,3928,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Mortgage,3079,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Mortgage,924,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Other financial service,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Other financial service,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Other financial service,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Other financial service,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Other financial service,1,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Other financial service,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Payday loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Payday loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Payday loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Payday loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Payday loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Payday loan,1,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Prepaid card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Prepaid card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Prepaid card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Prepaid card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Prepaid card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Prepaid card,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Student loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Student loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Student loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Student loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Student loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Student loan,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Vehicle loan or lease,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Vehicle loan or lease,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Vehicle loan or lease,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Vehicle loan or lease,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Vehicle loan or lease,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Vehicle loan or lease,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2012,Virtual currency,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2013,Virtual currency,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2014,Virtual currency,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2015,Virtual currency,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2016,Virtual currency,0,Nationstar Mortgage,13,13,groupfive
+NATIONSTAR MORTGAGE,2017,Virtual currency,0,Nationstar Mortgage,13,13,groupfive
+AMERICAN EXPRESS CENTURION BANK,2012,Bank account or service,27,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Bank account or service,47,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Bank account or service,91,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Bank account or service,96,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Bank account or service,139,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Bank account or service,47,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Checking or savings account,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Checking or savings account,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Checking or savings account,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Checking or savings account,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Checking or savings account,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Checking or savings account,3,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Consumer loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Consumer loan,1,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Consumer loan,1,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Consumer loan,7,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Consumer loan,5,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Consumer loan,3,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Credit card,909,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Credit card,1014,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Credit card,1095,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Credit card,1241,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Credit card,1800,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Credit card,682,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Credit reporting,1,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Credit reporting,13,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Credit reporting,5,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Credit reporting,5,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Credit reporting,2,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Credit reporting,39,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Debt collection,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Debt collection,36,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Debt collection,106,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Debt collection,105,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Debt collection,161,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Debt collection,42,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Money transfers,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Money transfers,2,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Money transfers,4,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Money transfers,4,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Money transfers,1,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Money transfers,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Mortgage,2,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Mortgage,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Mortgage,2,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Mortgage,1,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Mortgage,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Mortgage,1,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Other financial service,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Other financial service,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Other financial service,7,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Other financial service,8,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Other financial service,5,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Other financial service,1,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Payday loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Payday loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Payday loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Payday loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Payday loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Payday loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Prepaid card,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Prepaid card,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Prepaid card,74,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Prepaid card,216,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Prepaid card,261,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Prepaid card,87,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Student loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Student loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Student loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Student loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Student loan,1,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Student loan,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Vehicle loan or lease,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Vehicle loan or lease,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Vehicle loan or lease,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Vehicle loan or lease,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Vehicle loan or lease,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Vehicle loan or lease,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2012,Virtual currency,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2013,Virtual currency,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2014,Virtual currency,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2015,Virtual currency,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2016,Virtual currency,0,American Express,14,14,grouptwo
+AMERICAN EXPRESS CENTURION BANK,2017,Virtual currency,0,American Express,14,14,grouptwo
+Ditech Financial LLC,2012,Bank account or service,1,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Bank account or service,6,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Bank account or service,8,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Bank account or service,7,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Bank account or service,6,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Bank account or service,5,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Checking or savings account,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Checking or savings account,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Checking or savings account,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Checking or savings account,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Checking or savings account,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Checking or savings account,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Consumer loan,2,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Consumer loan,6,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Consumer loan,21,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Consumer loan,32,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Consumer loan,31,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Consumer loan,6,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Credit card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Credit card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Credit card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Credit card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Credit card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Credit card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Credit reporting,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Credit reporting,6,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Credit reporting,3,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Credit reporting,3,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Credit reporting,8,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Credit reporting,14,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Debt collection,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Debt collection,68,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Debt collection,219,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Debt collection,195,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Debt collection,146,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Debt collection,42,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Money transfers,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Money transfers,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Money transfers,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Money transfers,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Money transfers,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Money transfers,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Mortgage,826,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Mortgage,1968,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Mortgage,2176,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Mortgage,2453,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Mortgage,2603,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Mortgage,710,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Other financial service,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Other financial service,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Other financial service,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Other financial service,3,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Other financial service,3,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Other financial service,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Payday loan,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Payday loan,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Payday loan,1,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Payday loan,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Payday loan,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Payday loan,1,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Prepaid card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Prepaid card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Prepaid card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Prepaid card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Prepaid card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Prepaid card,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Student loan,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Student loan,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Student loan,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Student loan,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Student loan,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Student loan,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Vehicle loan or lease,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Vehicle loan or lease,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Vehicle loan or lease,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Vehicle loan or lease,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Vehicle loan or lease,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Vehicle loan or lease,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2012,Virtual currency,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2013,Virtual currency,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2014,Virtual currency,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2015,Virtual currency,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2016,Virtual currency,0,Ditech,16,15,groupfive
+Ditech Financial LLC,2017,Virtual currency,0,Ditech,16,15,groupfive
+DISCOVER BANK,2012,Bank account or service,35,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Bank account or service,39,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Bank account or service,57,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Bank account or service,113,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Bank account or service,204,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Bank account or service,39,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Checking or savings account,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Checking or savings account,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Checking or savings account,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Checking or savings account,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Checking or savings account,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Checking or savings account,4,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Consumer loan,4,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Consumer loan,4,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Consumer loan,16,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Consumer loan,36,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Consumer loan,49,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Consumer loan,14,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Credit card,720,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Credit card,615,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Credit card,587,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Credit card,993,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Credit card,929,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Credit card,410,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Credit reporting,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Credit reporting,11,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Credit reporting,13,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Credit reporting,9,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Credit reporting,7,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Credit reporting,48,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Debt collection,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Debt collection,50,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Debt collection,162,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Debt collection,150,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Debt collection,208,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Debt collection,69,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Money transfers,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Money transfers,1,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Money transfers,4,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Money transfers,3,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Money transfers,2,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Money transfers,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Mortgage,3,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Mortgage,17,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Mortgage,14,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Mortgage,18,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Mortgage,9,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Mortgage,7,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Other financial service,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Other financial service,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Other financial service,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Other financial service,1,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Other financial service,1,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Other financial service,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Payday loan,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Payday loan,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Payday loan,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Payday loan,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Payday loan,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Payday loan,1,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Prepaid card,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Prepaid card,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Prepaid card,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Prepaid card,1,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Prepaid card,1,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Prepaid card,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Student loan,81,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Student loan,164,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Student loan,162,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Student loan,153,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Student loan,179,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Student loan,65,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Vehicle loan or lease,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Vehicle loan or lease,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Vehicle loan or lease,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Vehicle loan or lease,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Vehicle loan or lease,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Vehicle loan or lease,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2012,Virtual currency,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2013,Virtual currency,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2014,Virtual currency,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2015,Virtual currency,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2016,Virtual currency,0,Discover Bank,15,16,grouptwo
+DISCOVER BANK,2017,Virtual currency,0,Discover Bank,15,16,grouptwo
+ENCORE CAPITAL GROUP INC,2012,Bank account or service,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Bank account or service,6,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Bank account or service,9,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Bank account or service,1,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Bank account or service,2,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Bank account or service,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Checking or savings account,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Checking or savings account,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Checking or savings account,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Checking or savings account,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Checking or savings account,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Checking or savings account,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Consumer loan,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Consumer loan,3,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Consumer loan,15,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Consumer loan,28,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Consumer loan,22,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Consumer loan,12,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Credit card,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Credit card,8,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Credit card,41,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Credit card,64,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Credit card,47,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Credit card,18,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Credit reporting,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Credit reporting,14,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Credit reporting,32,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Credit reporting,25,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Credit reporting,9,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Credit reporting,31,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Debt collection,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Debt collection,950,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Debt collection,2497,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Debt collection,2047,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Debt collection,1471,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Debt collection,550,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Money transfers,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Money transfers,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Money transfers,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Money transfers,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Money transfers,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Money transfers,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Mortgage,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Mortgage,3,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Mortgage,1,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Mortgage,4,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Mortgage,3,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Mortgage,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Other financial service,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Other financial service,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Other financial service,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Other financial service,1,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Other financial service,2,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Other financial service,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Payday loan,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Payday loan,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Payday loan,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Payday loan,2,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Payday loan,2,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Payday loan,1,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Prepaid card,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Prepaid card,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Prepaid card,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Prepaid card,1,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Prepaid card,1,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Prepaid card,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Student loan,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Student loan,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Student loan,1,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Student loan,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Student loan,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Student loan,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Vehicle loan or lease,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Vehicle loan or lease,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Vehicle loan or lease,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Vehicle loan or lease,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Vehicle loan or lease,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Vehicle loan or lease,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2012,Virtual currency,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2013,Virtual currency,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2014,Virtual currency,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2015,Virtual currency,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2016,Virtual currency,0,Encore Capital Group,20,17,groupfive
+ENCORE CAPITAL GROUP INC,2017,Virtual currency,0,Encore Capital Group,20,17,groupfive
+PNC Bank NA,2012,Bank account or service,597,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Bank account or service,558,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Bank account or service,663,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Bank account or service,652,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Bank account or service,766,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Bank account or service,255,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Checking or savings account,0,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Checking or savings account,0,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Checking or savings account,0,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Checking or savings account,0,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Checking or savings account,0,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Checking or savings account,26,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Consumer loan,46,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Consumer loan,49,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Consumer loan,65,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Consumer loan,70,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Consumer loan,75,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Consumer loan,30,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Credit card,84,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Credit card,82,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Credit card,81,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Credit card,89,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Credit card,111,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Credit card,51,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Credit reporting,1,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Credit reporting,6,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Credit reporting,5,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Credit reporting,5,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Credit reporting,4,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Credit reporting,12,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Debt collection,0,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Debt collection,16,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Debt collection,53,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Debt collection,48,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Debt collection,41,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Debt collection,8,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Money transfers,0,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Money transfers,10,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Money transfers,10,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Money transfers,9,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Money transfers,7,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Money transfers,4,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Mortgage,658,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Mortgage,908,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Mortgage,931,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Mortgage,695,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Mortgage,635,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Mortgage,193,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Other financial service,0,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Other financial service,0,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Other financial service,0,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Other financial service,4,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Other financial service,5,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Other financial service,3,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Payday loan,0,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Payday loan,0,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Payday loan,1,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Payday loan,2,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Payday loan,0,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Payday loan,2,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Prepaid card,0,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Prepaid card,0,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Prepaid card,2,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Prepaid card,7,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Prepaid card,3,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Prepaid card,1,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Student loan,12,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Student loan,0,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Student loan,22,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Student loan,13,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Student loan,16,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Student loan,6,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Vehicle loan or lease,0,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Vehicle loan or lease,0,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Vehicle loan or lease,0,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Vehicle loan or lease,0,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Vehicle loan or lease,0,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Vehicle loan or lease,1,PNC Bank,9,18,groupone
+PNC Bank NA,2012,Virtual currency,0,PNC Bank,9,18,groupone
+PNC Bank NA,2013,Virtual currency,0,PNC Bank,9,18,groupone
+PNC Bank NA,2014,Virtual currency,0,PNC Bank,9,18,groupone
+PNC Bank NA,2015,Virtual currency,0,PNC Bank,9,18,groupone
+PNC Bank NA,2016,Virtual currency,0,PNC Bank,9,18,groupone
+PNC Bank NA,2017,Virtual currency,0,PNC Bank,9,18,groupone
+SUNTRUST BANKS INC,2012,Bank account or service,326,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Bank account or service,395,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Bank account or service,427,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Bank account or service,552,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Bank account or service,669,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Bank account or service,190,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Checking or savings account,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Checking or savings account,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Checking or savings account,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Checking or savings account,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Checking or savings account,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Checking or savings account,31,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Consumer loan,27,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Consumer loan,42,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Consumer loan,51,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Consumer loan,57,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Consumer loan,58,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Consumer loan,23,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Credit card,34,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Credit card,23,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Credit card,41,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Credit card,47,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Credit card,58,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Credit card,14,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Credit reporting,2,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Credit reporting,4,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Credit reporting,2,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Credit reporting,3,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Credit reporting,2,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Credit reporting,8,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Debt collection,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Debt collection,12,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Debt collection,25,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Debt collection,20,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Debt collection,26,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Debt collection,12,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Money transfers,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Money transfers,1,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Money transfers,10,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Money transfers,11,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Money transfers,10,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Money transfers,8,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Mortgage,698,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Mortgage,642,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Mortgage,499,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Mortgage,454,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Mortgage,483,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Mortgage,139,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Other financial service,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Other financial service,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Other financial service,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Other financial service,3,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Other financial service,2,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Other financial service,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Payday loan,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Payday loan,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Payday loan,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Payday loan,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Payday loan,1,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Payday loan,1,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Prepaid card,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Prepaid card,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Prepaid card,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Prepaid card,5,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Prepaid card,3,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Prepaid card,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Student loan,12,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Student loan,6,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Student loan,5,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Student loan,10,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Student loan,13,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Student loan,11,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Vehicle loan or lease,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Vehicle loan or lease,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Vehicle loan or lease,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Vehicle loan or lease,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Vehicle loan or lease,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Vehicle loan or lease,3,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2012,Virtual currency,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2013,Virtual currency,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2014,Virtual currency,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2015,Virtual currency,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2016,Virtual currency,0,SunTrust Banks,12,19,groupone
+SUNTRUST BANKS INC,2017,Virtual currency,0,SunTrust Banks,12,19,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Bank account or service,237,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Bank account or service,174,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Bank account or service,152,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Bank account or service,180,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Bank account or service,186,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Bank account or service,89,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Checking or savings account,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Checking or savings account,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Checking or savings account,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Checking or savings account,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Checking or savings account,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Checking or savings account,7,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Consumer loan,46,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Consumer loan,51,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Consumer loan,31,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Consumer loan,32,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Consumer loan,19,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Consumer loan,11,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Credit card,71,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Credit card,126,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Credit card,163,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Credit card,158,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Credit card,116,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Credit card,20,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Credit reporting,1,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Credit reporting,23,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Credit reporting,9,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Credit reporting,11,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Credit reporting,3,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Credit reporting,3,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Debt collection,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Debt collection,77,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Debt collection,394,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Debt collection,284,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Debt collection,180,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Debt collection,70,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Money transfers,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Money transfers,7,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Money transfers,9,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Money transfers,10,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Money transfers,6,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Money transfers,2,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Mortgage,883,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Mortgage,1168,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Mortgage,891,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Mortgage,623,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Mortgage,543,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Mortgage,120,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Other financial service,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Other financial service,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Other financial service,1,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Other financial service,1,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Other financial service,1,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Other financial service,1,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Payday loan,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Payday loan,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Payday loan,1,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Payday loan,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Payday loan,1,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Payday loan,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Prepaid card,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Prepaid card,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Prepaid card,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Prepaid card,3,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Prepaid card,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Prepaid card,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Student loan,1,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Student loan,3,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Student loan,1,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Student loan,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Student loan,2,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Student loan,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Vehicle loan or lease,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Vehicle loan or lease,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Vehicle loan or lease,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Vehicle loan or lease,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Vehicle loan or lease,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Vehicle loan or lease,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2012,Virtual currency,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2013,Virtual currency,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2014,Virtual currency,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2015,Virtual currency,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2016,Virtual currency,0,HSBC,10,20,groupone
+HSBC NORTH AMERICA HOLDINGS INC,2017,Virtual currency,0,HSBC,10,20,groupone
